@@ -9,7 +9,7 @@ public class FocusriteCrashDemoMain {
 
     public static void main(String[] args) {
 
-        // capture Java version
+        // capture Java version.hep.
         String java_version = System.getProperty("java.version");
         System.out.println("JDK:"+java_version);
         System.out.println("JVM Working dir is:"+System.getProperty("user.dir"));

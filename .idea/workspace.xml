@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javasrc/FocusriteCrashDemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/javasrc/FocusriteCrashDemoMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,7 @@
     </persistenceIdMap>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -27,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/visuttaja/xover25&quot;,
+    &quot;url&quot;: &quot;https://github.com/visuttaja/focusrite_crashtest.git&quot;,
     &quot;accountId&quot;: &quot;1e4f27f8-d87b-48d6-aa4a-dc23b59e621c&quot;
   }
 }</component>
