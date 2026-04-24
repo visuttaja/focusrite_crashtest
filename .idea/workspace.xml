@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/!Code2019/java_cpp_conn/XOver25/java_bridges/focusrite_minimal" value="3BXMFL5a9YhM0lLNZ50i9kOqkNz" />
+      <entry key="_C:/!Code2019/java_cpp_conn/xfocusrite_minimal" value="3CmB0cB3CFan9NTOPOsxXvXazMe" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;visuttaja&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/visuttaja/xover25&quot;,
+    &quot;accountId&quot;: &quot;1e4f27f8-d87b-48d6-aa4a-dc23b59e621c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BXMFL5a9YhM0lLNZ50i9kOqkNz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CrashDemoJDK17.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CrashDemoJDK20.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CrashDemoJDK23.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CrashDemoJDK24.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CrashDemoJDK25.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CrashDemoJDK26.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashDemoMain17.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashDemoMain20.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashDemoMain21.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashDemoWonder.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FocusriteCrashTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/mysystem/tensorflow_java/t_clone&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CrashDemoJDK24">
+    <configuration name="CrashDemoJDK17" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out_java_class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK18" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK19" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK20" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK21" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK22" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK23" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK24" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK25" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrashDemoJDK26" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="26" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FocusriteCrashDemoMain" />
+      <module name="focusrite_minimal" />
+      <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CrashDemoJDK20" />
+      <item itemvalue="Application.CrashDemoJDK21" />
+      <item itemvalue="Application.CrashDemoJDK22" />
+      <item itemvalue="Application.CrashDemoJDK18" />
+      <item itemvalue="Application.CrashDemoJDK19" />
+      <item itemvalue="Application.CrashDemoJDK23" />
+      <item itemvalue="Application.CrashDemoJDK24" />
+      <item itemvalue="Application.CrashDemoJDK26" />
+      <item itemvalue="Application.CrashDemoJDK25" />
+      <item itemvalue="Application.CrashDemoJDK17" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CrashDemoJDK17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="" />
+      <created>1774630856808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774630856808</updated>
+    </task>
+    <task id="LOCAL−00001" summary="isolated focusrite crash demo">
+      <option name="closed" value="true" />
+      <created>1774644539612</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1774644539612</updated>
+    </task>
+    <task id="LOCAL−00002" summary="changed to windwos 1252">
+      <option name="closed" value="true" />
+      <created>1774644595945</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1774644595945</updated>
+    </task>
+    <task id="LOCAL−00003" summary="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?">
+      <option name="closed" value="true" />
+      <created>1774644791821</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1774644791821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="isolated focusrite crash demo" />
+    <MESSAGE value="changed to windwos 1252" />
+    <MESSAGE value="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

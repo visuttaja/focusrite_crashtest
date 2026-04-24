@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="diff_jdks|x64">
+      <Configuration>diff_jdks</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{AAFFF538-5A73-688F-EA68-4197E876A599}</ProjectGuid>
+    <RootNamespace>focusrite_minimal</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='diff_jdks|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='diff_jdks|x64'">
+    <OutDir>$(SolutionDir)\out_windows_dll</OutDir>
+    <TargetName>focusrite_minimal</TargetName>
+    <IntDir>$(ProjectDir)intermediates</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='diff_jdks|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>$(ProjectDir)jdk_inc_lib\include;$(ProjectDir)jdk_inc_lib\include\win32;$(ProjectDir)ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host\pc;$(ProjectDir)ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host;$(ProjectDir)ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>jvm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>./jdk_inc_lib/lib</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host\asiodrivers.cpp" />
+    <ClCompile Include="ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host\pc\asiolist.cpp" />
+    <ClCompile Include="focusrite_minimal.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host\asiodrivers.h" />
+    <ClInclude Include="ASIO-SDK_2.3.4_2025-10-15\ASIOSDK\host\pc\asiolist.h" />
+    <ClInclude Include="focusrite_minimal.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>

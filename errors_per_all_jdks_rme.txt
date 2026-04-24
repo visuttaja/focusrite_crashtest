@@ -1,0 +1,102 @@
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk17\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:17.0.3.1
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk18\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:18.0.1.1
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk19\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:19.0.2
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk20\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:20.0.1
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk21\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:21
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk22\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:22
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk23\bin\java.exe -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:23
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk24\bin\java.exe --enable-native-access=ALL-UNNAMED -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:24
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk25\bin\java.exe --enable-native-access=ALL-UNNAMED -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:25.0.1
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>C:\!Code2019\JAVA_RTS\jdk26\bin\java.exe --enable-native-access=ALL-UNNAMED -cp ".\out_java_class" FocusriteCrashDemoMain
+JDK:26
+JVM Working dir is:C:\!Code2019\java_cpp_conn\xfocusrite_minimal
+Loading ASIO driver: ASIO Hammerfall DSP
+Driver loaded successfully
+JVM:Driver loaded, attempting init...
+Attempting ASIO init...
+ASIO init completed successfully
+JVM:Init result: true
+
+C:\!Code2019\java_cpp_conn\xfocusrite_minimal>pause
+Press any key to continue . . .
