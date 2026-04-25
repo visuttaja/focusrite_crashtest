@@ -69,17 +69,12 @@ on JDK versions 17-24. The stack trace definitively shows the crash originates w
 C++ runtime, indicating a bug within the Focusrite driver implementation when called 
 from a JNI context.
 
-### Possible Investigation Areas
+### Some Possible Investigation Areas
 - Memory management and null pointer validation in ASIO initialization sequence within 
   `focusriteusbasio.dll`
 - Thread safety considerations when driver is invoked from JVM context
 - Analysis of driver behavior at offsets 0x4c0d, 0x8d2d, and 0x9386 within 
   `focusriteusbasio.dll`
-- Validation of ASIO driverInfo structure handling across different runtime 
-  environments
-- Investigation of environmental factors that may differ between JDK versions
-
----
 
 ## Prerequisites
 

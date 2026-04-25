@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="limited lines in README">
-      <change afterPath="$PROJECT_DIR$/_README.md" afterDir="false" />
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="corrected the finding 6 cantain a note about the dll resolution order.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -264,7 +263,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1777131179501</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="corrected the finding 6 cantain a note about the dll resolution order.">
+      <option name="closed" value="true" />
+      <created>1777132276122</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1777132276122</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,7 +282,8 @@
     <MESSAGE value="Link to JDKs" />
     <MESSAGE value="removed stupid suggestion" />
     <MESSAGE value="limited lines in README" />
-    <option name="LAST_COMMIT_MESSAGE" value="limited lines in README" />
+    <MESSAGE value="corrected the finding 6 cantain a note about the dll resolution order." />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected the finding 6 cantain a note about the dll resolution order." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
