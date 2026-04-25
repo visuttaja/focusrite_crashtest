@@ -10,7 +10,7 @@ across multiple Java Development Kit (JDK) versions.
 
 ### Test Environment
 - **Platform**: Windows 11 Pro 25H2 (Version 10.0.26200, Build 26200, x64-based PC)
-- **Compilation**: Visual Studio 2022 (Platform Toolset v143, Windows Target Platform 10.0, x64 Dynamic Library)
+- **DLL Compilation**: Visual Studio 2022 (Platform Toolset v143, x64 Dynamic Library, focusrite_minimal.cpp + ASIO SDK)
 - **JDK Versions Tested**: Java 17 through Java 26
 - **Target Driver**: Focusrite USB ASIO
 - **Control Driver**: RME Hammerfall DSP ASIO (for comparison)
