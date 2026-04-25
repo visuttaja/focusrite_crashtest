@@ -56,6 +56,10 @@ The test harness consists of:
    Focusrite driver
 5. **Control Test**: RME ASIO driver operates correctly under identical conditions, 
    confirming the test harness validity
+6. **DLL Version Dependency**: Renaming `msvcp140.dll` to `_msvcp140.dll` in JDK's bin 
+   directory prevents its use, forcing resolution to Windows C:\Windows\System32\msvcp140.dll 
+   (version 14.50.35719.0), which resolves the crash for Focusrite driver, while RME 
+   driver continues to work correctly with any of the JDK-provided DLL versions
 
 ### Technical Significance
 This crash represents a critical stability issue that prevents Java-based audio 
