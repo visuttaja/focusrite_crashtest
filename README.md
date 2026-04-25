@@ -81,7 +81,8 @@ from a JNI context.
 ### Development Environment Requirements
 
 1. **Java IDE**: IntelliJ IDEA is required as the Java development environment for this 
-   project.
+   project. Users must configure the downloaded JDK path in IntelliJ IDEA's project 
+   structure settings according to their local configuration.
 
 2. **Native Compilation**: Visual Studio 2022 is used for building the native DLL 
    component (`focusrite_minimal.dll`).
