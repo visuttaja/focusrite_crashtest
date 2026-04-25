@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="Possible investigation areas" />
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="Link to JDKs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +239,14 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1777128838553</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Link to JDKs">
+      <option name="closed" value="true" />
+      <created>1777129161064</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1777129161064</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -248,7 +255,8 @@
     <MESSAGE value="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
     <MESSAGE value="Created Checked Technical Abstract." />
     <MESSAGE value="Possible investigation areas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Possible investigation areas" />
+    <MESSAGE value="Link to JDKs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link to JDKs" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

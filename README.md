@@ -44,7 +44,7 @@ The test harness consists of:
 5. **Control Test**: RME ASIO driver operates correctly under identical conditions, confirming the test harness validity
 
 ### Technical Significance
-This crash represents a critical stability issue that prevents Java-based audio applications from utilizing Focusrite USB interfaces through the standard ASIO interface on JDK versions 17-24. The stack trace definitively shows the crash originates within `focusriteusbasio.dll` at multiple internal offsets before propagating to the Microsoft C++ runtime, indicating a memory management bug within the Focusrite driver implementation when called from a JNI context.
+This crash represents a critical stability issue that prevents Java-based audio applications from utilizing Focusrite USB interfaces through the standard ASIO interface on JDK versions 17-24. The stack trace definitively shows the crash originates within `focusriteusbasio.dll` at multiple internal offsets before propagating to the Microsoft C++ runtime, indicating a bug within the Focusrite driver implementation when called from a JNI context.
 
 ### Possible Investigation Areas
 - Memory management and null pointer validation in ASIO initialization sequence within `focusriteusbasio.dll`
