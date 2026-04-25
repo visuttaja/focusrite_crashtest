@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="Link to JDKs" />
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="removed stupid suggestion">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +248,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1777129161064</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="removed stupid suggestion">
+      <option name="closed" value="true" />
+      <created>1777130639878</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1777130639878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,7 +265,8 @@
     <MESSAGE value="Created Checked Technical Abstract." />
     <MESSAGE value="Possible investigation areas" />
     <MESSAGE value="Link to JDKs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Link to JDKs" />
+    <MESSAGE value="removed stupid suggestion" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed stupid suggestion" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
