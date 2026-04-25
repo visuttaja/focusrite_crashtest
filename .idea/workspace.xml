@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="corrected the finding 6 cantain a note about the dll resolution order." />
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="cleaned main a bit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_C:/!Code2019/java_cpp_conn/XOver25/java_bridges/focusrite_minimal" value="3BXMFL5a9YhM0lLNZ50i9kOqkNz" />
+      <entry key="_C:/!Code2019/java_cpp_conn/focusrite_crashtest" value="3CrIQzvFSBRk4iV9I9ldXphXWRQ" />
       <entry key="_C:/!Code2019/java_cpp_conn/xfocusrite_minimal" value="3CmB0cB3CFan9NTOPOsxXvXazMe" />
       <entry key="_M:/check_from_git/test_focusrite_crash/focusrite_crashtest" value="3CqvBtOeQ2K4ZFjnzLaWB0ZLdYC" />
     </persistenceIdMap>
@@ -27,12 +28,12 @@
     &quot;assignee&quot;: &quot;visuttaja&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/visuttaja/focusrite_crashtest.git&quot;,
-    &quot;accountId&quot;: &quot;1e4f27f8-d87b-48d6-aa4a-dc23b59e621c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/visuttaja/focusrite_crashtest",
+    "accountId": "1e4f27f8-d87b-48d6-aa4a-dc23b59e621c"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -271,7 +272,14 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1777132276122</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="cleaned main a bit">
+      <option name="closed" value="true" />
+      <created>1777137533108</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1777137533108</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,18 +303,8 @@
     <MESSAGE value="removed stupid suggestion" />
     <MESSAGE value="limited lines in README" />
     <MESSAGE value="corrected the finding 6 cantain a note about the dll resolution order." />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected the finding 6 cantain a note about the dll resolution order." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/javasrc/FocusriteCrashDemoMain.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="cleaned main a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned main a bit" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
