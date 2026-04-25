@@ -11,13 +11,12 @@ public class FocusriteCrashDemoMain {
 
         // capture Java version.hep.
         String java_version = System.getProperty("java.version");
-        System.out.println("JDK:"+java_version);
+        System.out.println("JDK is:"+java_version);
         System.out.println("JVM Working dir is:"+System.getProperty("user.dir"));
         // Load the native library
 
-        String javaxAsioDllRelativePath2 ="./out_windows_dll/focusrite_minimal.dll";
-        String absPath =toAbsolutePath(javaxAsioDllRelativePath2);
-        //String absPath =toAbsolutePath("./../out_windows_dll/focusrite_minimal");
+        String javaxAsioDllRelativePath ="./out_windows_dll/focusrite_minimal.dll";
+        String absPath =toAbsolutePath(javaxAsioDllRelativePath);
         System.load(absPath);
 
         FocusriteCrashDemoMain demo = new FocusriteCrashDemoMain();
@@ -26,7 +25,6 @@ public class FocusriteCrashDemoMain {
         String driverName = "Focusrite USB ASIO";
         //String driverName = "ASIO Hammerfall DSP"; //check against RME Raydat
 
-        //System.out.println("JVM:Loading driver: " + driverName);
         int result = demo.loadAsioDriverByName(driverName);
 
         if (result == 0) { // Assuming 0 means success
