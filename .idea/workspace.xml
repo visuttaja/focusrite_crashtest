@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javasrc/FocusriteCrashDemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/javasrc/FocusriteCrashDemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.exp" beforeDir="false" afterPath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.exp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
     <persistenceIdMap>
       <entry key="_C:/!Code2019/java_cpp_conn/XOver25/java_bridges/focusrite_minimal" value="3BXMFL5a9YhM0lLNZ50i9kOqkNz" />
       <entry key="_C:/!Code2019/java_cpp_conn/xfocusrite_minimal" value="3CmB0cB3CFan9NTOPOsxXvXazMe" />
+      <entry key="_M:/check_from_git/test_focusrite_crash/focusrite_crashtest" value="3CqvBtOeQ2K4ZFjnzLaWB0ZLdYC" />
     </persistenceIdMap>
   </component>
   <component name="Git.Settings">
