@@ -77,7 +77,7 @@ This OpenJDK distribution provides the Java components for testing the ASIO driv
 - `javasrc/FocusriteCrashDemoMain.java` - Main Java test application
 - `focusrite_minimal.cpp` - Native C++ JNI bridge implementation
 - `focusrite_minimal.h` - Header file for native bridge
-- `run_crashdemo.bat` - Batch script for testing across multiple JDK versions
+- `run_crashdemo.bat` - Batch script for testing across multiple JDK versions. See [JDK Archive](https://jdk.java.net/archive/) for different JDK versions (available in left column of page)
 - `errors_per_all_jdks_focusrite.txt` - Detailed crash logs for Focusrite driver
 - `errors_per_all_jdks_rme.txt` - Control test logs for RME driver
 - `hs_err_pid*.log` - JVM crash dump files

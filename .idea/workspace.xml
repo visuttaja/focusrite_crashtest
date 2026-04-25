@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.exp" beforeDir="false" afterPath="$PROJECT_DIR$/out_windows_dll/focusrite_minimal.exp" afterDir="false" />
-    </list>
+    <list default="true" id="39ec309d-cbc1-4592-ac45-b788f26b0d8c" name="Changes" comment="Possible investigation areas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,14 +225,30 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1774644791821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Created Checked Technical Abstract.">
+      <option name="closed" value="true" />
+      <created>1777128595075</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1777128595075</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Possible investigation areas">
+      <option name="closed" value="true" />
+      <created>1777128838553</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1777128838553</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="isolated focusrite crash demo" />
     <MESSAGE value="changed to windwos 1252" />
     <MESSAGE value="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ complains about wrong encoding. But surely we don't like to touch the dll encoding?" />
+    <MESSAGE value="Created Checked Technical Abstract." />
+    <MESSAGE value="Possible investigation areas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible investigation areas" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
